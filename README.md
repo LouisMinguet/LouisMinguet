@@ -4,7 +4,7 @@ Currently studying, I also develop mobile apps.
 
 ---
 
-![alt text](https://my-park-journey.b-cdn.net/App%20logo.png "My Park Journey Logo")
+![alt text](https://my-park-journey.b-cdn.net/App%20logo.png?width=250 "My Park Journey Logo")
 
 I'm working on my biggest project, called My Park Journey, coming really soon on Android & iOS. Stay tuned!
 
