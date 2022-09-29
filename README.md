@@ -5,7 +5,7 @@ Currently studying, I also develop mobile apps.
 ---
 
 <p align="center">
-  <img width="250" src="https://my-park-journey.b-cdn.net/App%20logo.png" alt="My Park journey">
+  <img src="https://my-park-journey.b-cdn.net/App%20logo.png?width=250" alt="My Park journey" style="border-radius: 50%;"><br>
   <a>I'm working on my biggest project, called My Park Journey, coming really soon on Android & iOS. Stay tuned!</a>
 </p>
 
