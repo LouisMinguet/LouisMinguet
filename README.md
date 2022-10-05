@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 Currently studying, I also develop mobile apps. 
 
