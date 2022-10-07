@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Currently studying, I also develop mobile apps. 
+Currently studying in IT, I also develop mobile apps. 
 
 ---
 
