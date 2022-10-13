@@ -6,7 +6,7 @@ Currently studying, I also develop mobile apps.
 
 <p align="center">
   <img src="https://my-park-journey.b-cdn.net/App%20Logo%20rounded.png?width=100" alt="My Park journey" style="border-radius: 50%;"><br><br>
-  I am currently working on my biggest project called <a style="color:red;"><b>My Park Journey</b></a>. Available on Android & iOS, more informations <a href="https://mgt-bros.com/myparkjourney">here!</a><br>
+  I am currently working on my biggest project called <b>My Park Journey</b>. Available on Android & iOS, more informations <a href="https://mgt-bros.com/myparkjourney">here!</a><br>
     Downloads <a href="https://mgt-bros.com/myparkjourney/downloads/">here!</a> Don't hesitate to send me feedbacks!
 </p>
 
