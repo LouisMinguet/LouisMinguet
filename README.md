@@ -6,7 +6,7 @@ Currently studying, I also develop mobile apps.
 
 <p align="center">
   <img src="https://mgt-bros.com/myparkjourney/icon.png" alt="My Park journey" style="border-radius: 50%; width: 150px; "><br><br>
-  I am currently working on the V2 of my app called <b>My Park Journey</b>. V1 is available on Android & iOS, more informations <a href="https://mgt-bros.com/myparkjourney">here!</a><br>
+  Version 2.0 of my app called <b>My Park Journey</b> is now available on Android & iOS! More informations <a href="https://mgt-bros.com/myparkjourney">here!</a><br>
     Downloads <a href="https://mgt-bros.com/myparkjourney/downloads/">here!</a> Don't hesitate to send me feedbacks!
 </p>
 
