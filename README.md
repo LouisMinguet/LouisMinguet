@@ -12,13 +12,14 @@ These are my main applications :
   </colgroup>
   <tr>
     <td style="vertical-align:top;">
-      <p align="center"><img src="https://mgt-bros.com/myparkjourney/icon.png" alt="My Park journey" style="border-radius: 50%; width: 150px; "><br><br>Version 2.0 of my app called <b>My Park Journey</b> is now available on Android & iOS! More informations <a href="https://mgt-bros.com/myparkjourney">here!</a><br>Downloads <a href="https://mgt-bros.com/myparkjourney/downloads/">here!</a> Don't hesitate to send me feedbacks!</p>
+      <p align="center"><img src="https://mgt-bros.com/myparkjourney/icon.png" alt="My Park journey" style="border-radius: 50%; width: 150px; "><br><b>My Park Journey</b><br><br>Version 2.0 of my app called <b>My Park Journey</b> is now available on Android & iOS! More informations <a href="https://mgt-bros.com/myparkjourney">here!</a><br>Downloads <a href="https://mgt-bros.com/myparkjourney/downloads/">here!</a> Don't hesitate to send me feedbacks!</p>
     </td>
     <td style="vertical-align:top;">
-      <p align="center"><img src="https://mgt-bros.com/cinemate/icon.png" alt="CinéMate" style="border-radius: 50%; width: 150px; "><br><br><b>CinéMate</b> is the new application I'm working on. It allows you to meet new people while going to the movies, and share your passion for the seventh art!</p>
+      <p align="center"><img src="https://mgt-bros.com/cinemate/icon.png" alt="CinéMate" style="border-radius: 50%; width: 150px; "><br><b>CinéMate</b><br><br><b>CinéMate</b> is the new application I'm working on. It allows you to meet new people while going to the movies, and share your passion for the seventh art!</p>
     </td>
   </tr>
 </table>
+
 
 
 ---
