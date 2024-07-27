@@ -13,6 +13,9 @@ These are my main applications :
     <td>
       <p align="center"><img src="https://mgt-bros.com/cinemate/icon.png" alt="CinéMate" style="border-radius: 50%; width: 150px; "><br><b>CinéMate</b><br><br><b>CinéMate</b> is the new application I'm working on. It allows you to meet new people while going to the theatre, and share your passion for the seventh art!</p>
     </td>
+    <td>
+      <p align="center"><img src="https://mgt-bros.com/worldreviewai/icon.png" alt="WorldReview AI" style="border-radius: 50%; width: 150px; "><br><b>WorldReview AI</b><br><br><b>WorldReview AI</b> is an application that allows you to quickly generate accurate reviews for Google Maps, TripAdvisor and Booking applications!</p>
+    </td>
   </tr>
 </table>
 
