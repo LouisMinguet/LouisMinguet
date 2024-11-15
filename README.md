@@ -5,28 +5,21 @@ These are my main applications :
 
 ---
 
-<table>
-  <tr>
-    <td width="150" style="border: none;">
-      <img src="https://mgt-bros.com/myparkjourney/icon.png" alt="My Park journey" width="150" style="border-radius: 50%;">
-    </td>
-    <td style="border: none;">
-      Version 2.0 of my app called <b>My Park Journey</b> is now available on Android & iOS! More informations <a href="https://mgt-bros.com/myparkjourney">here!</a><br>
-      Downloads <a href="https://mgt-bros.com/myparkjourney/downloads/">here!</a> Don't hesitate to send me feedbacks!
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td width="150" style="border: none;">
-      <img src="https://mgt-bros.com/cinemate/icon.png" alt="CinéMate" width="150" style="border-radius: 50%;">
-    </td>
-    <td style="border: none;">
-      My second app <b>CinéMate</b> is now available on Android & iOS! More informations <a href="https://mgt-bros.com/cinemate">here!</a><br>
-      Downloads : <a href="https://apps.apple.com/us/app/cinémate/id6502531851">iOS</a> or <a href="https://play.google.com/store/apps/details?id=com.mgtbros.movie_partners">Android</a> ! Don't hesitate to send me feedbacks!
-    </td>
-  </tr>
-</table>
+<!-- My Park Journey -->
+<img src="https://mgt-bros.com/myparkjourney/icon.png" alt="My Park Journey" width="100" align="left" style="border-radius: 50%; margin-right: 15px;"/>
+
+**Version 2.0 of my app called My Park Journey is now available on Android & iOS!**  
+More information [here](https://mgt-bros.com/myparkjourney)!  
+Downloads [here](https://mgt-bros.com/myparkjourney/downloads/)! Don't hesitate to send me feedbacks!
+
+<br clear="left"/>
+
+<!-- CinéMate -->
+<img src="https://mgt-bros.com/cinemate/icon.png" alt="CinéMate" width="100" align="left" style="border-radius: 50%; margin-right: 15px;"/>
+
+**My second app CinéMate is now available on Android & iOS!**  
+More information [here](https://mgt-bros.com/cinemate)!  
+Downloads: [iOS](https://apps.apple.com/us/app/cinémate/id6502531851) or [Android](https://play.google.com/store/apps/details?id=com.mgtbros.movie_partners)! Don't hesitate to send me feedbacks!
 
 ---
 
