@@ -13,6 +13,7 @@ More information [here](https://mgt-bros.com/myparkjourney)!
 Downloads [here](https://mgt-bros.com/myparkjourney/downloads/)! Don't hesitate to send me feedbacks!
 
 <br clear="left"/>
+<br>
 
 <!-- CinéMate -->
 <img src="https://mgt-bros.com/cinemate/icon.png" alt="CinéMate" width="100" align="left" style="border-radius: 50%; margin-right: 15px;"/>
