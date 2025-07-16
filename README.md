@@ -2,7 +2,7 @@
 
 Currently working as Java developer, I also develop mobile apps.
 
-## 📱 My Applications
+## 📱 my main apps
 
 ---
 
@@ -26,13 +26,14 @@ Downloads: [iOS](https://apps.apple.com/us/app/cinémate/id6502531851) or [Andro
 
 ---
 
-## 🌐 Find More
+## 🌐 more apps
 
-**Find all my projects on my website and don't hesitate to send me feedback!**  
+**Find all my apps and projects on my website and don't hesitate to send me feedback!**  
 👉 [MGT Bros website](https://mgt-bros.com)
 
-## 🛠️ Tech Stack
+## 🛠️ tech sttack
 
 I work mainly with [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/).
+I'm curious and motivated by AI !
 
 *Private repos for my mobile projects, public for my studies.*
