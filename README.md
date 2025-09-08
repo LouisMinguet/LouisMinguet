@@ -27,7 +27,7 @@ Downloads: [iOS](https://apps.apple.com/us/app/cinémate/id6502531851) or [Andro
 **Find all my apps and projects on my website and don't hesitate to send me feedback!**  
 👉 [MGT Bros website](https://mgt-bros.com)
 
-## 🛠️ tech sttack
+## 🛠️ tech stack
 
 I work mainly with [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/).
 I'm curious and motivated by AI !
